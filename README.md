@@ -1,2 +1,2 @@
-# bash_examples
-Several Bash Examples
+# Bash Examples
+Several Bash Examples including functions that can be used in real cases
